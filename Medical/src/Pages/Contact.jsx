@@ -3,6 +3,8 @@ import React from "react";
 const Contact = () => {
   return (
     <div>
+      <PageBanner  title/>
+
       <div>
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.041439750505!2d3.332975899999999!3d6.641776399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b91478e3cc0bf%3A0xfc22984a2b3d7c48!2sOur%20Friends%20Hospital!5e0!3m2!1sen!2sng!4v1771850544100!5m2!1sen!2sng"

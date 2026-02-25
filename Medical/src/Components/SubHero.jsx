@@ -16,7 +16,7 @@ const SubHero = () => {
             are thorough, compassionate, and focused on long-term wellness.
           </p>
         </div>
-        <div class="...">
+        <div className="...">
           <img src={greatCare} className="w-full h-64 object-cover" alt="" />
           <h3 className="mt-6 text-xl font-bold text-gray-800 ">
             Compassionate & Friendly Care
